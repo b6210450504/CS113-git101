@@ -1,0 +1,3 @@
+# CS113-git101
+    STUDENT ID : b6210450504
+    NICKNAME   : NUT
