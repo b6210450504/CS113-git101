@@ -1,7 +1,0 @@
-# CS113-git101
-<<<<<<< HEAD
-    ID STUDENT : b6210450504
-=======
-    STUDENT ID : b6210450504
->>>>>>> READ IT XD
-    NICKNAME   : NUT
