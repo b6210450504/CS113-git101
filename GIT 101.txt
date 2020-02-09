@@ -1,0 +1,28 @@
+step 0: Create a GitHub account
+step 1: Create a new repository
+Step 2: Create a file
+   if u completed your file 
+	do Step 3
+   else
+	do Step 2
+Step 3: Enter the location of that file.
+Step 4: Right click on the mouse AND click Git Bash Here
+   if git==open
+	do Step 5
+   else
+	do step 4
+##{command}
+Step 5: enter command {git init} to Start using Git in that folder or directory.
+## From step 6, enter the following command
+Step 6: {git status} to Check the status of our repository.
+Step 7: {git add <name file>} to Add files to the staging area. if u wanna do any files do {git add .}
+## do get status after do any step for check your status XD
+## {git commit -m "__Commant__"} -m is mean comment
+Step 8: {git config user.name "__NAME__"} and {git config user.email "__MAIL__@ku.th"} for know who r u?
+          Nah {git config --global user.name "__NAME__"} and {git config --globaluser.email "__MAIL__@ku.th"}   for Can know everywhere who r u
+Step 9: {git log --all --decorate --oneline --graph} to checking WHAT HAVE YOU DONE!
+Step 10: {git remote add <__REMOTE_NAME__> <__YOUR_GIT_URL__>} for manage the repository URL where we will deposit the code
+             If you got wrong do {git remote remove __REMOTE_NAME__} and then {git remote add ...} again =w=
+last Step (I think that :V): {git push -u __REMOTE_NAME__ master} for Sending data from Local to Remote Repository
+
+
